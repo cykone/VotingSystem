@@ -1,0 +1,10 @@
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\bin\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.deps.json
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\bin\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.runtimeconfig.json
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\bin\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.runtimeconfig.dev.json
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\bin\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.dll
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\bin\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.pdb
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\obj\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.csproj.CoreCompileInputs.cache
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\obj\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.AssemblyInfoInputs.cache
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\obj\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.AssemblyInfo.cs
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\obj\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.dll
+F:\Projects\VotingSystem\Ft.VotingSystem.Backend\obj\Debug\netcoreapp2.0\Ft.VotingSystem.Backend.pdb
