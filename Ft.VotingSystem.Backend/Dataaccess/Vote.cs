@@ -22,6 +22,8 @@ namespace Ft.VotingSystem.Backend.Dataaccess
 
         public Voter Voter { get; private set; }
 
+        public string Code { get; private set; }
+
         #endregion Properties
 
         #region Methods
@@ -36,11 +38,12 @@ namespace Ft.VotingSystem.Backend.Dataaccess
 
         #region Factory
 
-        public static Vote Create(Voter voter)
+        public static Vote Create(Voter voter, string code)
         {
             var ret = new Vote
             {
-                Voter = voter
+                Voter = voter,
+                Code = code
             };
 
             return ret;

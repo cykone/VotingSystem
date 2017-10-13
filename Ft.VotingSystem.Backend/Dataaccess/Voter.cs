@@ -16,7 +16,9 @@ namespace Ft.VotingSystem.Backend.Dataaccess
 
         #region Properties
 
-        public string Name { get; private set; }
+        public string Firstname { get; private set; }
+
+        public string Lastname { get; private set; }
 
         public string Email { get; private set; }
 
@@ -24,11 +26,12 @@ namespace Ft.VotingSystem.Backend.Dataaccess
 
         #region Factory
 
-        public static Voter Create(string name, string email)
+        public static Voter Create(string firstname, string lastname, string email)
         {
             var ret = new Voter
             {
-                Name = name,
+                Firstname = firstname,
+                Lastname = lastname,
                 Email = email
             };
 

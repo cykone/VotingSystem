@@ -16,19 +16,24 @@ namespace Ft.VotingSystem.Backend.Dataaccess
 
         #region Properties
 
-        public string Name { get; protected set; }
+        public string Firstname { get; protected set; }
+
+        public string Lastname { get; protected set; }
 
         public string Email { get; protected set; }
+
+        public string Name => Firstname + " " + Lastname;
 
         #endregion Properties
 
         #region Factory
 
-        public static Candidate CreateNew(string name, string email)
+        public static Candidate CreateNew(string firstname, string lastname, string email)
         {
             var ret = new Candidate
             {
-                Name = name,
+                Firstname = firstname,
+                Lastname = lastname,
                 Email = email
             };
 
